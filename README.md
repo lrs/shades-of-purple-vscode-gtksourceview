@@ -1,5 +1,8 @@
 # Shades Of Purple color scheme for GtkSourceView compatible apps
 
+**Please note, this project has moved to [shades-of-purple-gtksourceview
+](https://github.com/ahmadawais/shades-of-purple-gtksourceview)**
+
 ## Description
 
 A custom color scheme for GtkSourceView compatible apps such as the Gedit and Xed text editors.
